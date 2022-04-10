@@ -1,0 +1,34 @@
+Aryeh Nailand, 342473642
+Maya Swisa, 209028760
+Yaakov Korman, 329692966
+Miriam Goldstein, 206221509
+
+
+How to run the code:
+
+1. Make sure you are inside the pacman directory in the command line
+2. Copy paste one of the commands from the pacman_commands.txt file into the
+terminal. (these were all of the commands used for testing)
+3. Each command includes the board layout, which is a randomized board
+    layout for where the food, pacman, and walls are located, three for each
+    board size. Each 3 board sizes are averaged in the data.
+
+-Weights:
+
+The weights can be changed inside the searchAgents.py file for each of the
+relevant search algorithms, within the search agent constructor.
+
+-Heuristics:
+
+The heuristics are given as a list inside the appropriate agents. The
+heuristics used can be changed here. (note if new heuristic is added to the
+list it must be implemented).
+
+Algorithms and Heuristic Code:
+-MHA_star_algos.py contains the MHA* algorithms written for the project
+-search.py has A* and WA* code in it
+-searchAgents.py is where each algorithm's search agent class is located
+-pacman_heuristics.py is where all the heuristics we used are located
+Note: We didnt hook up the weights or the heuristics to the command line which would
+be more convenient but would have taken a lot of time to figure out the pacman
+code to make it work.

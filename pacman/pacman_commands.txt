@@ -1,0 +1,99 @@
+PACMAN COMMANDS
+1. Go into pacman directory in terminal with "cd pacman"
+2. copy paste one of the commands and run!
+
+ASTAR
+
+python pacman.py -l A1allfoodsearch8x4 -p AStarFoodSearchAgent
+python pacman.py -l A2allfoodsearch8x4two -p AStarFoodSearchAgent
+python pacman.py -l A3allfoodsearch8x4three -p AStarFoodSearchAgent
+python pacman.py -l B1allfoodsearch9x5 -p AStarFoodSearchAgent
+python pacman.py -l B2allfoodsearch9x5two -p AStarFoodSearchAgent
+python pacman.py -l B3allfoodsearch9x5three -p AStarFoodSearchAgent
+python pacman.py -l C1allfoodsearch10x6 -p AStarFoodSearchAgent
+python pacman.py -l C2allfoodsearch10x6two -p AStarFoodSearchAgent
+python pacman.py -l C3allfoodsearch10x6three -p AStarFoodSearchAgent
+python pacman.py -l D1allfoodsearch11x7 -p AStarFoodSearchAgent
+python pacman.py -l D2allfoodsearch11x7two -p AStarFoodSearchAgent
+python pacman.py -l D3allfoodsearch11x7three -p AStarFoodSearchAgent
+python pacman.py -l E1allfoodsearch12x8 -p AStarFoodSearchAgent
+python pacman.py -l E2allfoodsearch12x8two -p AStarFoodSearchAgent
+python pacman.py -l E3allfoodsearch12x8three -p AStarFoodSearchAgent
+python pacman.py -l F1allfoodsearch13x9 -p AStarFoodSearchAgent
+python pacman.py -l F2allfoodsearch13x9two -p AStarFoodSearchAgent
+python pacman.py -l F3allfoodsearch13x9three -p AStarFoodSearchAgent
+python pacman.py -l G1allfoodsearch14x10 -p AStarFoodSearchAgent
+python pacman.py -l G2allfoodsearch14x10two -p AStarFoodSearchAgent
+python pacman.py -l G3allfoodsearch14x10three -p AStarFoodSearchAgent
+
+WASTAR
+
+python pacman.py -l A1allfoodsearch8x4 -p WAStarFoodSearchAgent
+python pacman.py -l A2allfoodsearch8x4two -p WAStarFoodSearchAgent
+python pacman.py -l A3allfoodsearch8x4three -p WAStarFoodSearchAgent
+python pacman.py -l B1allfoodsearch9x5 -p WAStarFoodSearchAgent
+python pacman.py -l B2allfoodsearch9x5two -p WAStarFoodSearchAgent
+python pacman.py -l B3allfoodsearch9x5three -p WAStarFoodSearchAgent
+python pacman.py -l C1allfoodsearch10x6 -p WAStarFoodSearchAgent
+python pacman.py -l C2allfoodsearch10x6two -p WAStarFoodSearchAgent
+python pacman.py -l C3allfoodsearch10x6three -p WAStarFoodSearchAgent
+python pacman.py -l D1allfoodsearch11x7 -p WAStarFoodSearchAgent
+python pacman.py -l D2allfoodsearch11x7two -p WAStarFoodSearchAgent
+python pacman.py -l D3allfoodsearch11x7three -p WAStarFoodSearchAgent
+python pacman.py -l E1allfoodsearch12x8 -p WAStarFoodSearchAgent
+python pacman.py -l E2allfoodsearch12x8two -p WAStarFoodSearchAgent
+python pacman.py -l E3allfoodsearch12x8three -p WAStarFoodSearchAgent
+python pacman.py -l F1allfoodsearch13x9 -p WAStarFoodSearchAgent
+python pacman.py -l F2allfoodsearch13x9two -p WAStarFoodSearchAgent
+python pacman.py -l F3allfoodsearch13x9three -p WAStarFoodSearchAgent
+python pacman.py -l G1allfoodsearch14x10 -p WAStarFoodSearchAgent
+python pacman.py -l G2allfoodsearch14x10two -p WAStarFoodSearchAgent
+python pacman.py -l G3allfoodsearch14x10three -p WAStarFoodSearchAgent
+
+IMHASTAR
+
+python pacman.py -l A1allfoodsearch8x4 -p IMHAStarFoodSearchAgent
+python pacman.py -l A2allfoodsearch8x4two -p IMHAStarFoodSearchAgent
+python pacman.py -l A3allfoodsearch8x4three -p IMHAStarFoodSearchAgent
+python pacman.py -l B1allfoodsearch9x5 -p IMHAStarFoodSearchAgent
+python pacman.py -l B2allfoodsearch9x5two -p IMHAStarFoodSearchAgent
+python pacman.py -l B3allfoodsearch9x5three -p IMHAStarFoodSearchAgent
+python pacman.py -l C1allfoodsearch10x6 -p IMHAStarFoodSearchAgent
+python pacman.py -l C2allfoodsearch10x6two -p IMHAStarFoodSearchAgent
+python pacman.py -l C3allfoodsearch10x6three -p IMHAStarFoodSearchAgent
+python pacman.py -l D1allfoodsearch11x7 -p IMHAStarFoodSearchAgent
+python pacman.py -l D2allfoodsearch11x7two -p IMHAStarFoodSearchAgent
+python pacman.py -l D3allfoodsearch11x7three -p IMHAStarFoodSearchAgent
+python pacman.py -l E1allfoodsearch12x8 -p IMHAStarFoodSearchAgent
+python pacman.py -l E2allfoodsearch12x8two -p IMHAStarFoodSearchAgent
+python pacman.py -l E3allfoodsearch12x8three -p IMHAStarFoodSearchAgent
+python pacman.py -l F1allfoodsearch13x9 -p IMHAStarFoodSearchAgent
+python pacman.py -l F2allfoodsearch13x9two -p IMHAStarFoodSearchAgent
+python pacman.py -l F3allfoodsearch13x9three -p IMHAStarFoodSearchAgent
+python pacman.py -l G1allfoodsearch14x10 -p IMHAStarFoodSearchAgent
+python pacman.py -l G2allfoodsearch14x10two -p IMHAStarFoodSearchAgent
+python pacman.py -l G3allfoodsearch14x10three -p IMHAStarFoodSearchAgent
+
+SMHASTAR
+
+python pacman.py -l A1allfoodsearch8x4 -p SMHAStarFoodSearchAgent
+python pacman.py -l A2allfoodsearch8x4two -p SMHAStarFoodSearchAgent
+python pacman.py -l A3allfoodsearch8x4three -p SMHAStarFoodSearchAgent
+python pacman.py -l B1allfoodsearch9x5 -p SMHAStarFoodSearchAgent
+python pacman.py -l B2allfoodsearch9x5two -p SMHAStarFoodSearchAgent
+python pacman.py -l B3allfoodsearch9x5three -p SMHAStarFoodSearchAgent
+python pacman.py -l C1allfoodsearch10x6 -p SMHAStarFoodSearchAgent
+python pacman.py -l C2allfoodsearch10x6two -p SMHAStarFoodSearchAgent
+python pacman.py -l C3allfoodsearch10x6three -p SMHAStarFoodSearchAgent
+python pacman.py -l D10allfoodsearch11x7 -p SMHAStarFoodSearchAgent
+python pacman.py -l D21allfoodsearch11x7two -p SMHAStarFoodSearchAgent
+python pacman.py -l D32allfoodsearch11x7three -p SMHAStarFoodSearchAgent
+python pacman.py -l E13allfoodsearch12x8 -p SMHAStarFoodSearchAgent
+python pacman.py -l E2allfoodsearch12x8two -p SMHAStarFoodSearchAgent
+python pacman.py -l E3allfoodsearch12x8three -p SMHAStarFoodSearchAgent
+python pacman.py -l F1allfoodsearch13x9 -p SMHAStarFoodSearchAgent
+python pacman.py -l F2allfoodsearch13x9two -p SMHAStarFoodSearchAgent
+python pacman.py -l F3allfoodsearch13x9three -p SMHAStarFoodSearchAgent
+python pacman.py -l G1allfoodsearch14x10 -p SMHAStarFoodSearchAgent
+python pacman.py -l G2allfoodsearch14x10two -p SMHAStarFoodSearchAgent
+python pacman.py -l G3allfoodsearch14x10three -p SMHAStarFoodSearchAgent
