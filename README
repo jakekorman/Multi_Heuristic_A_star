@@ -3,8 +3,10 @@ Maya Swisa, 209028760
 Yaakov Korman, 329692966
 Miriam Goldstein, 206221509
 
-
-How to run the code:
+--The two algorithms, SMHA* and IMHA* are based on the following reasearch paper that can be found 
+    at this link:  https://www.cs.cmu.edu/~maxim/files/mha_ijrr15.pdf
+    
+--How to run the code:
 
 1. Make sure you are inside the pacman directory in the command line
 2. Copy paste one of the commands from the pacman_commands.txt file into the
